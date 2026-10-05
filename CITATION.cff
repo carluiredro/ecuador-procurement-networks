@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Code and data for: Where does corruption risk sit? Core-periphery structure and clustering of single bidding in Ecuador's subnational public procurement networks"
+authors:
+  - family-names: "Reyes-Vanegas"
+    given-names: "Lissete"
+    affiliation: "Universidad Espíritu Santo"
+    orcid: "https://orcid.org/0000-0002-1363-3443"
+  - family-names: "Matute-Petroche"
+    given-names: "Jessica"
+    affiliation: "Universidad Católica de Santiago de Guayaquil"
+    orcid: "https://orcid.org/0000-0002-4598-3026"
+  - family-names: "Redroban-Ortiz"
+    given-names: "Carlos"
+    affiliation: "Universidad Ecotec"
+    orcid: "https://orcid.org/0000-0002-0672-5323"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+repository-code: "https://github.com/carluiredro/ecuador-procurement-networks"
